@@ -1,5 +1,5 @@
 
-# Tiny Tuesday Projects
+# Tidy Tuesday Projects
 
 Written in Python (3.10). Required libraries provided in `requirements.txt`.
 
